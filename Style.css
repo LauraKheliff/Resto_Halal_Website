@@ -17,12 +17,12 @@
   color: white;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
   display: flex;
-  align-items: flex-start; justify-content: : flex-start;
+  align-items: flex-start; justify-content: flex-start;
 }
 
 .Entrer {
   text-decoration: none;
-  color : Chocolate;
+  color: 'Chocolate';
 }
 
 h1{
@@ -50,7 +50,7 @@ h1{
 
 .texte2 {
   display: block;
-  width : 37%;
+  width: 37%;
   margin-left: 22%;
   font-family: 'Helvetica';
   font-size: 30%;
@@ -140,7 +140,7 @@ h1{
 h6 {
   font-weight: 500;
   line-height: 1.2;
-  color : #777;
+  color: #777;
   margin-left: 22%;
   font-family: 'Helvetica';
 
