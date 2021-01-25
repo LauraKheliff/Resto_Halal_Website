@@ -40,7 +40,7 @@ h1{
   display: block;
   width : 50%;
   margin: auto;
-  font-family: 'Helvetica'
+  font-family: 'Helvetica';
   font-size: 15pt;
   font-weight: 300;
   line-height: 1.65em;
@@ -52,7 +52,7 @@ h1{
   display: block;
   width : 37%;
   margin-left: 22%;
-  font-family: 'Helvetica'
+  font-family: 'Helvetica';
   font-size: 30%;
   font-weight: 300;
   line-height: 1.65em;
